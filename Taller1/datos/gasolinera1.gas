@@ -1,0 +1,14 @@
+tipo:corriente:14000:1000
+tipo:octano:21000:454.55
+tipo:diesel:21093:5200
+tipo:biodiesel:52000:4200
+surtidor:Scott:corriente:1000:octano:2000:diesel:2103:biodiesel:5200
+surtidor:Travis:corriente:4000:octano:1000:diesel:2093:biodiesel:25000
+surtidor:Kanye:corriente:12000:octano:12000:diesel:931:biodiesel:89000
+surtidor:Tyler:corriente:2000:octano:28000:diesel:2357:biodiesel:98000
+empleado:Scott:125000
+empleado:Travis:456456
+empleado:Kanye:1300000
+empleado:Tyler:520000
+empleado:Kendrick:320000
+#"Si lees esto, pana extraño demasiado a mi ex (Karen te sigo amando pq te fuiste con Samuel >:( ))"
