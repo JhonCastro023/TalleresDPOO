@@ -1,0 +1,9 @@
+Cliente: Juan
+Dirección: Calle 123
+----------------
+Hamburguesa
+            12000
+----------------
+Precio Neto:  12000
+IVA:          2280
+Precio Total: 14280
