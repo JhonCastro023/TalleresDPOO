@@ -6,3 +6,5 @@ Taller 2 Comments: Se añadió JUnit, ya que por defecto no se encontraba. Si no
 Taller 3 Comments: N/A
 
 Taller 4 Comments: Modelo en .PNG y Documentación(Análisis) en .pdf
+
+Taller 5 Comments: N/A
