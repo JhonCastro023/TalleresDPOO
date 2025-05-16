@@ -8,3 +8,5 @@ Taller 3 Comments: N/A
 Taller 4 Comments: Modelo en .PNG y Documentación(Análisis) en .pdf
 
 Taller 5 Comments: N/A
+
+Taller 6 Comments: N/A
